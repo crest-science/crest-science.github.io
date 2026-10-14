@@ -14,7 +14,7 @@ listing:
 
 AI models and their tools, such as Claude Code, are moving fast, and we are all trying to understand how best to use them in our research. Practices are not yet stabilized: moving from chat to agents working on our computers, managing subscription limits, citing these tools in papers, choosing models for mathematics or for sensitive data.
 
-This 2026-2027 cycle offers CREST members **short, filmed trainings (1h30)** to get started with Claude Code, show concrete uses and their limits, and exchange on how they change our work.
+This 2026-2027 cycle offers CREST members **short trainings (1h30), in person and by videoconference, and recorded,** to get started with Claude Code, show concrete uses and their limits, and exchange on how they change our work.
 
 Organizers: Nicolas Brosse, Émilien Schultz. Questions and ideas: [Discussions](https://github.com/orgs/crest-science/discussions).
 

@@ -1,6 +1,6 @@
 # crest-science.github.io
 
-Source of **<https://crest-science.github.io>** — website of the **AI in Research @ CREST — 2026-2027 cycle**: short, filmed trainings (1h30, Thursdays 2pm, hybrid) for CREST members on using AI tools — Claude Code — in research.
+Source of **<https://crest-science.github.io>** — website of the **AI in Research @ CREST — 2026-2027 cycle**: short trainings (1h30), in person and by videoconference, and recorded, for CREST members on using AI tools — Claude Code — in research.
 
 Organizers: Nicolas Brosse, Émilien Schultz.
 Questions and ideas: [Discussions](https://github.com/orgs/crest-science/discussions).

@@ -1,6 +1,6 @@
 ---
 title: "Training"
-description: "Filmed trainings — recordings, slides and pitch."
+description: "Recorded trainings — recordings, slides and pitch."
 listing:
   id: past
   contents: "*/index.qmd"

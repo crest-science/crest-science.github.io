@@ -1,6 +1,6 @@
 # crest-science.github.io
 
-Source of **<https://crest-science.github.io>** — *AI in Research @ CREST*, the website of the **GenAI practices @CREST 2026-2027** cycle: short, filmed trainings (1h30, Thursdays 2pm, hybrid) for CREST members on using generative AI tools in research.
+Source of **<https://crest-science.github.io>** — *AI in Research @ CREST*, the website of the **AI in Research 2026-2027 cycle**: short, filmed trainings (1h30, Thursdays 2pm, hybrid) for CREST members on using AI tools — Claude Code — in research.
 
 Organizers: Nicolas Brosse, Émilien Schultz.
 Questions and ideas: [Discussions](https://github.com/orgs/crest-science/discussions).

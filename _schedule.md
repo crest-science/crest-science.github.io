@@ -9,4 +9,4 @@ Thursdays, 2pm — hybrid, filmed.
 | November (TBC) | LLM 101: what models are (families, context, KV cache, inference…) | Nicolas Brosse |
 | 19/11/2026 | Claude advanced: skills, agents, models, logs | Émilien Schultz |
 | 03/12/2026 | Managing security issues with agents (Docker…) | TBC |
-| 15/12/2026 (TBC) | Integrating GenAI in a data science workflow | Émilien Schultz |
+| 15/12/2026 (TBC) | Integrating AI in a data science workflow | Émilien Schultz |

@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "AI in Research @ CREST"
+  description: "Trainings, key references and contributions on using AI in research, from CREST."
+  site-url: https://crest-science.github.io
+  repo-url: https://github.com/crest-science/crest-science.github.io
+  repo-actions: [edit, issue]
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: formations/index.qmd
+        text: Trainings
+      - href: references.qmd
+        text: References
+      - href: blog/index.qmd
+        text: Blog
+      - href: contribute.qmd
+        text: Contribute
+    right:
+      - icon: github
+        href: https://github.com/crest-science
+  page-footer:
+    center: "CREST — content under CC BY 4.0"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    lang: en

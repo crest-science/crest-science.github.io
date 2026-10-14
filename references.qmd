@@ -1,0 +1,13 @@
+---
+title: "Key references"
+description: "A short, curated list. Each entry says why it matters."
+---
+
+<!--
+Keep this list short. Format for each entry:
+
+### Title
+[Link](https://…) — *Author / source, year*
+
+Why it matters: one or two sentences.
+-->

@@ -1,0 +1,10 @@
+---
+title: "Blog"
+description: "Contributions from CREST members. See [Contribute](../contribute.qmd) to write one."
+listing:
+  contents: "posts/*/index.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
+  feed: true
+---

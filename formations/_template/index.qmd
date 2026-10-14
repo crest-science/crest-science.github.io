@@ -1,0 +1,20 @@
+---
+# Copy this folder to formations/YYYY-MM-DD-short-name/ (no leading underscore).
+title: "Training title"
+description: "One-sentence pitch."
+date: 2026-01-01
+author: "Speaker name"
+categories: [training]        # training | demo | round-table
+---
+
+## Pitch
+
+What participants will learn, for whom, prerequisites.
+
+## Recording
+
+<!-- {{< video https://… >}} -->
+
+## Slides
+
+<!-- [Slides](slides.html) for a Quarto revealjs deck in this folder, or [Slides (PDF)](slides.pdf) -->

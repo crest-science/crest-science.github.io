@@ -1,0 +1,10 @@
+---
+# Copy this folder to blog/posts/YYYY-MM-DD-short-name/ (no leading underscore).
+title: "Post title"
+description: "One-sentence summary."
+date: 2026-01-01
+author: "Your name"
+categories: []
+---
+
+Write in Markdown. Images go in this folder.

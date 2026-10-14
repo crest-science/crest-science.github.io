@@ -1,0 +1,10 @@
+---
+title: "Trainings"
+description: "Trainings, demos and round tables — recordings, slides and summaries."
+listing:
+  contents: "*/index.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
+  fields: [date, title, description, author, categories]
+---

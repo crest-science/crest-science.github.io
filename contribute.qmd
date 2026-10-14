@@ -1,0 +1,17 @@
+---
+title: "Contribute"
+---
+
+<!-- TODO: open topics we are looking for contributions on. -->
+
+## Write a blog post
+
+1. Copy `blog/posts/_template/` to `blog/posts/YYYY-MM-DD-short-name/`.
+2. Write your post in `index.qmd` (plain Markdown is fine).
+3. Open a pull request.
+
+Not comfortable with GitHub? [Open an issue](https://github.com/crest-science/crest-science.github.io/issues/new/choose) with your text and we will publish it for you.
+
+## Suggest a reference
+
+[Open an issue](https://github.com/crest-science/crest-science.github.io/issues/new/choose) using the "Suggest a reference" template.

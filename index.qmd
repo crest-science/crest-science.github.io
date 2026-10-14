@@ -1,6 +1,5 @@
 ---
-title: "AI in Research @ CREST"
-subtitle: "AI in Research — 2026-2027 cycle"
+title: "AI in Research @ CREST — 2026-2027 cycle"
 toc: false
 listing:
   - id: latest

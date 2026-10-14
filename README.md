@@ -9,7 +9,7 @@ Questions and ideas: [Discussions](https://github.com/orgs/crest-science/discuss
 
 | What | Where |
 |---|---|
-| Upcoming training (date + speaker confirmed) | a row in `_schedule.md` |
+| Upcoming training (title, speaker, pitch) | an entry in `_schedule.md` |
 | Past training (pitch, recording, slides) | `formations/YYYY-MM-DD-name/index.qmd` — copy `formations/_template/` |
 | Blog post | `blog/posts/YYYY-MM-DD-name/index.qmd` — copy `blog/posts/_template/` |
 | Key reference | `references.qmd` |

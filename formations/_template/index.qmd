@@ -1,10 +1,10 @@
 ---
-# Copy this folder to formations/YYYY-MM-DD-short-name/ (no leading underscore).
+# Copy this folder to formations/YYYY-MM-DD-short-name/ (no leading underscore),
+# then remove the matching entry from _schedule.md.
 title: "Training title"
 description: "One-sentence pitch."
 date: 2026-01-01
 author: "Speaker name"
-categories: [training]        # training | demo | round-table
 ---
 
 ## Pitch

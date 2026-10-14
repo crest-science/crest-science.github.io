@@ -2,7 +2,13 @@
 title: "Contribute"
 ---
 
-<!-- TODO: open topics we are looking for contributions on. -->
+## Discuss
+
+Questions, uses you want to share, ideas of training topics: [GitHub Discussions](https://github.com/orgs/crest-science/discussions).
+
+## Open topics
+
+<!-- TODO: topics we are looking for contributions on. -->
 
 ## Write a blog post
 
@@ -10,7 +16,7 @@ title: "Contribute"
 2. Write your post in `index.qmd` (plain Markdown is fine).
 3. Open a pull request.
 
-Not comfortable with GitHub? [Open an issue](https://github.com/crest-science/crest-science.github.io/issues/new/choose) with your text and we will publish it for you.
+Not comfortable with GitHub? Send your text to Nicolas Brosse or Émilien Schultz and we will publish it for you.
 
 ## Suggest a reference
 

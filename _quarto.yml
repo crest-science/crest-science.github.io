@@ -13,7 +13,7 @@ website:
       - href: index.qmd
         text: Home
       - href: formations/index.qmd
-        text: Trainings
+        text: Training
       - href: references.qmd
         text: References
       - href: blog/index.qmd
@@ -23,6 +23,8 @@ website:
     right:
       - icon: github
         href: https://github.com/crest-science
+      - text: Discussions
+        href: https://github.com/orgs/crest-science/discussions
   page-footer:
     center: "CREST — content under CC BY 4.0"
 

@@ -1,6 +1,5 @@
 ---
-title: "AI in Research @ CREST"
-subtitle: "Trainings, key references and shared experience on using AI in research."
+title: "AI in Research @ CREST — 2026-2027 cycle"
 toc: false
 listing:
   - id: latest
@@ -10,14 +9,18 @@ listing:
     sort: "date desc"
     type: table
     max-items: 5
-    fields: [date, title, categories]
+    fields: [date, title]
 ---
 
-<!-- TODO: short pitch — who we are, what this site is for, why come back. -->
+AI models and their tools — Claude Code among them — are moving fast, and many of us are still figuring out how to use them productively in research. Practices are far from settled: shifting from chat interfaces to agents that act on our machines; managing context, permissions, and subscription limits; citing AI assistance in papers; choosing the right model for mathematics, coding, or sensitive data; and deciding what to automate versus what still needs careful human judgment.
 
-## Next session
+This 2026-2027 cycle accompanies the Claude Code licences offered to CREST members. It provides **short 1h30 trainings**, held in person and online, and recorded, to get started with the tool, show concrete uses and their limits, and exchange on how they change our work.
 
-<!-- TODO: date, topic, place, registration link. -->
+Organizers: Nicolas Brosse, Émilien Schultz. Questions and ideas: [Discussions](https://github.com/orgs/crest-science/discussions).
+
+## Upcoming trainings
+
+{{< include _schedule.md >}}
 
 ## Latest
 

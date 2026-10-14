@@ -14,7 +14,7 @@ Questions and ideas: [Discussions](https://github.com/orgs/crest-science/discuss
 | Blog post | `blog/posts/YYYY-MM-DD-name/index.qmd` — copy `blog/posts/_template/` |
 | Key reference | `references.qmd` |
 
-Internal planning and brainstorming stay in the organizers' pad; only confirmed trainings go into `_schedule.md`.
+Internal planning and brainstorming stay in the organizers' pad; a training goes into `_schedule.md` once its title and speaker are decided (dates can stay TBC).
 
 ## Workflow
 

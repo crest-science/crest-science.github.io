@@ -2,7 +2,13 @@
 title: "Contribute"
 ---
 
-<!-- TODO: open topics we are looking for contributions on. -->
+## Discuss
+
+Questions, uses you want to share, ideas of training topics: [GitHub Discussions](https://github.com/orgs/crest-science/discussions).
+
+## Open topics
+
+<!-- TODO: topics we are looking for contributions on. -->
 
 ## Write a blog post
 
